@@ -1,0 +1,82 @@
+  {
+  "project_info": {
+    "project_number": "839735478838",
+    "project_id": "authfirebase-cc9bf",
+    "storage_bucket": "authfirebase-cc9bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839735478838:android:584ff46822e4ed6cd92697",
+        "android_client_info": {
+          "package_name": "com.example.authfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839735478838-m3obr8qu09k38mu9ovaimestgqvbd8k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXlEGfXHJqDV8kSSCnRSPmJVzlHTYxD4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839735478838-m3obr8qu09k38mu9ovaimestgqvbd8k9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839735478838-1dhnhmmfqoj6f5364bro671r8m3tckac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authfire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839735478838:android:aef88a48dba6cd6ed92697",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839735478838-m3obr8qu09k38mu9ovaimestgqvbd8k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXlEGfXHJqDV8kSSCnRSPmJVzlHTYxD4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839735478838-m3obr8qu09k38mu9ovaimestgqvbd8k9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839735478838-1dhnhmmfqoj6f5364bro671r8m3tckac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authfire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
